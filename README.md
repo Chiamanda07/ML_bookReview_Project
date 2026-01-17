@@ -24,5 +24,5 @@ The goal of this project is to build a simple sentiment analysis model that can 
 ## 📈 Results
 
 - Achieved strong performance on the test set.
-- Metrics like **accuracy** were used to evaluate the model.
+- 81.4% Accuracy was gotten.
 
